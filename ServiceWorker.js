@@ -1,9 +1,9 @@
 const cacheName = "metaverse_company-photonfusion-0.1";
 const contentToCache = [
-    "Build/metaverse_unity-photonpun-web.loader.js",
-    "Build/metaverse_unity-photonpun-web.framework.js",
-    "Build/metaverse_unity-photonpun-web.data",
-    "Build/metaverse_unity-photonpun-web.wasm",
+    "Build/metaverse-webgl.loader.js",
+    "Build/metaverse-webgl.framework.js",
+    "Build/metaverse-webgl.data",
+    "Build/metaverse-webgl.wasm",
     "TemplateData/style.css"
 
 ];
